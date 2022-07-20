@@ -15,3 +15,6 @@ Two tasks happen in Conv NN's: 'Feature' Extraction and Classfication
 After the Feature extration, it is time to classify the data. 
  - This is where the model reads through the data and tries to classify it. 
  - For my project, the model will read through the data input and label it as a Dog or Cat
+
+
+Libraries Used in this Project: OpenCV, Numpy, Pandas, Matlab Plots
