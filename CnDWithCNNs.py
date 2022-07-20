@@ -26,7 +26,7 @@ get_ipython().run_line_magic('matplotlib', 'inline')
 # In[2]:
 
 
-data = np.load('cat_equal_2.npz')
+data = np.load('DataForCnnModel.npz')
 
 
 # In[3]:
