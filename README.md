@@ -17,4 +17,7 @@ After the Feature extration, it is time to classify the data.
  - For my project, the model will read through the data input and label it as a Dog or Cat
 
 
+This project uses a .npz file called 'DataForCnnModel' for its testing and training data.
+The data file is too large to be added to repository. 
+
 Libraries Used in this Project: OpenCV, Numpy, Pandas, Matlab Plots
